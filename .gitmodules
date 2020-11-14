@@ -1,0 +1,3 @@
+[submodule "cross-request"]
+	path = cross-request
+	url = https://github.com/YMFE/cross-request.git
